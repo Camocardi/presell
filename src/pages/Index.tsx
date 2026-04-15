@@ -8,7 +8,7 @@ const Index = () => {
         </h1>
         <div className="h-px w-12 bg-primary/30" />
         <a
-          href="https://transformapro.site"
+          href="https://www.transformapro.site"
           className="btn-glow inline-flex w-full items-center justify-center rounded-xl bg-primary py-4 text-base font-semibold text-primary-foreground transition-all duration-200 active:scale-95"
         >
           Continuar
